@@ -1,6 +1,6 @@
 # Ticket302_Sunum
 
-Merhaba, Tiket302 İstanbul - Beşiktaş Wissen Akademi'de eğitim gördüğüm süreçte 302 sınıfı ile yazdık. İstanbulKart uygulamasından esinlenerek oluşturduğumuz bu projede üye akbilini kaydedip bakiyesini görebilecek ve talimat yükleyebilecektir. Asli amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
+Merhaba, Tiket302 İstanbul - Beşiktaş Wissen Akademi'de eğitim gördüğüm süreçte 302 sınıfı ile yazdık. İstanbulKart uygulamasından esinlenerek oluşturduğumuz bu projede üye akbilini kaydedip bakiyesini görebilecek ve talimat yükleyebilecektir. Asli amacımız gerçek hayata yaklaşmaktır.
 
 Bu projenin tüm hakları Betül Akşan'a, bana ve 302 sabah grubu sınıfının öğrencilerine aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
